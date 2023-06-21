@@ -1,0 +1,402 @@
+2023-06-08 14:18:21,205 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:18:21,205 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:18:22,506 main_window.py[line:53]INFO init windows
+2023-06-08 14:19:16,114 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:19:16,114 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:19:17,310 main_window.py[line:53]INFO init windows
+2023-06-08 14:24:30,376 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:24:30,376 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:24:31,747 main_window.py[line:54]INFO init windows
+2023-06-08 14:24:55,280 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:24:55,281 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:24:56,608 main_window.py[line:54]INFO init windows
+2023-06-08 14:25:22,804 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:25:22,804 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:25:24,025 main_window.py[line:54]INFO init windows
+2023-06-08 14:25:31,363 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 14:25:31,363 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 14:25:32,594 main_window.py[line:54]INFO init windows
+2023-06-08 15:58:59,990 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 15:58:59,990 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 15:59:01,382 main_window.py[line:54]INFO init windows
+2023-06-08 16:15:48,433 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 16:15:48,433 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 16:15:49,841 main_window.py[line:54]INFO init windows
+2023-06-08 16:16:02,767 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 16:16:02,768 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 16:16:04,094 main_window.py[line:54]INFO init windows
+2023-06-08 17:56:03,503 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:56:03,503 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:56:04,913 main_window.py[line:54]INFO init windows
+2023-06-08 17:56:40,528 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:56:40,528 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:56:41,886 main_window.py[line:54]INFO init windows
+2023-06-08 17:57:51,749 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:57:51,749 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:57:53,102 main_window.py[line:54]INFO init windows
+2023-06-08 17:58:02,598 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:58:02,598 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:58:03,895 main_window.py[line:54]INFO init windows
+2023-06-08 17:59:33,599 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:59:33,599 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:59:37,390 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:59:37,390 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:59:38,802 main_window.py[line:54]INFO init windows
+2023-06-08 17:59:57,178 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-08 17:59:57,178 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-08 17:59:58,500 main_window.py[line:54]INFO init windows
+2023-06-09 10:42:17,042 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-09 10:42:17,043 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-09 10:42:18,623 main_window.py[line:43]INFO init windows
+2023-06-11 11:58:52,013 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 11:58:52,013 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 11:58:53,680 main_window.py[line:44]INFO init windows
+2023-06-11 11:59:17,205 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 11:59:17,205 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 11:59:18,611 main_window.py[line:44]INFO init windows
+2023-06-11 12:02:35,643 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:02:35,643 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:02:37,071 main_window.py[line:45]INFO init windows
+2023-06-11 12:03:34,314 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:03:34,314 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:03:35,686 main_window.py[line:45]INFO init windows
+2023-06-11 12:14:39,461 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:14:39,461 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:14:40,872 main_window.py[line:45]INFO init windows
+2023-06-11 12:19:00,219 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:19:00,219 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:19:01,607 main_window.py[line:45]INFO init windows
+2023-06-11 12:19:28,528 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:19:28,528 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:19:29,756 main_window.py[line:45]INFO init windows
+2023-06-11 12:22:07,447 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:22:07,447 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:22:08,722 main_window.py[line:45]INFO init windows
+2023-06-11 12:29:00,931 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:29:00,931 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:29:02,250 main_window.py[line:45]INFO init windows
+2023-06-11 12:30:02,511 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:30:02,511 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:30:03,765 main_window.py[line:45]INFO init windows
+2023-06-11 12:31:30,558 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:31:30,558 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:31:31,814 main_window.py[line:45]INFO init windows
+2023-06-11 12:31:54,131 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:31:54,131 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:31:55,299 main_window.py[line:45]INFO init windows
+2023-06-11 12:32:27,200 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:32:27,200 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:32:28,491 main_window.py[line:45]INFO init windows
+2023-06-11 12:38:06,770 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:38:06,770 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:38:08,048 main_window.py[line:45]INFO init windows
+2023-06-11 12:39:23,738 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:39:23,738 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:39:24,976 main_window.py[line:45]INFO init windows
+2023-06-11 12:39:53,756 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:39:53,756 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:39:55,072 main_window.py[line:45]INFO init windows
+2023-06-11 12:41:37,755 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 12:41:37,755 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 12:41:39,041 main_window.py[line:45]INFO init windows
+2023-06-11 17:15:59,261 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:15:59,261 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:16:00,468 main_window.py[line:45]INFO init windows
+2023-06-11 17:27:41,653 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:27:41,653 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:28:32,395 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:28:32,395 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:28:33,698 main_window.py[line:45]INFO init windows
+2023-06-11 17:29:56,453 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:29:56,453 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:29:58,209 main_window.py[line:45]INFO init windows
+2023-06-11 17:31:49,647 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:31:49,647 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:31:50,815 main_window.py[line:45]INFO init windows
+2023-06-11 17:32:39,178 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:32:39,178 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:32:40,444 main_window.py[line:45]INFO init windows
+2023-06-11 17:33:59,576 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:33:59,576 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:34:00,890 main_window.py[line:45]INFO init windows
+2023-06-11 17:36:38,817 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:36:38,817 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:36:40,683 main_window.py[line:45]INFO init windows
+2023-06-11 17:38:27,459 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:38:27,459 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:38:28,658 main_window.py[line:45]INFO init windows
+2023-06-11 17:39:01,249 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 17:39:01,249 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 17:39:02,524 main_window.py[line:45]INFO init windows
+2023-06-11 21:26:37,870 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 21:26:37,870 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 21:26:39,136 main_window.py[line:45]INFO init windows
+2023-06-11 21:30:12,178 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 21:30:12,178 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 21:30:13,462 main_window.py[line:45]INFO init windows
+2023-06-11 21:31:52,124 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 21:31:52,124 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 21:31:53,870 main_window.py[line:45]INFO init windows
+2023-06-11 21:33:55,568 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 21:33:55,568 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 21:33:57,346 main_window.py[line:45]INFO init windows
+2023-06-11 22:03:02,827 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 22:03:02,827 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 22:03:04,137 main_window.py[line:45]INFO init windows
+2023-06-11 22:08:58,729 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-11 22:08:58,729 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-11 22:09:00,023 main_window.py[line:45]INFO init windows
+2023-06-12 21:07:08,033 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:07:08,033 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:07:09,473 main_window.py[line:45]INFO init windows
+2023-06-12 21:09:25,701 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:09:25,701 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:09:27,121 main_window.py[line:45]INFO init windows
+2023-06-12 21:25:49,268 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:25:49,268 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:25:50,710 main_window.py[line:45]INFO init windows
+2023-06-12 21:32:14,666 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:32:14,666 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:32:16,021 main_window.py[line:45]INFO init windows
+2023-06-12 21:34:48,801 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:34:48,801 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:34:50,058 main_window.py[line:45]INFO init windows
+2023-06-12 21:43:10,080 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:43:10,080 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:43:11,350 main_window.py[line:45]INFO init windows
+2023-06-12 21:43:35,215 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:43:35,215 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:43:36,514 main_window.py[line:45]INFO init windows
+2023-06-12 21:44:58,549 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:44:58,549 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:47:15,275 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:47:15,275 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:47:16,533 main_window.py[line:45]INFO init windows
+2023-06-12 21:58:26,374 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 21:58:26,374 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 21:58:27,716 main_window.py[line:45]INFO init windows
+2023-06-12 22:07:33,067 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 22:07:33,068 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 22:07:34,653 main_window.py[line:45]INFO init windows
+2023-06-12 22:10:31,834 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-12 22:10:31,834 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-12 22:10:33,288 main_window.py[line:45]INFO init windows
+2023-06-13 09:08:16,364 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:08:16,364 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:08:17,931 main_window.py[line:45]INFO init windows
+2023-06-13 09:09:39,125 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:09:39,125 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:09:40,701 main_window.py[line:45]INFO init windows
+2023-06-13 09:10:52,858 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:10:52,858 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:10:54,393 main_window.py[line:45]INFO init windows
+2023-06-13 09:13:35,891 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:13:35,891 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:13:37,429 main_window.py[line:45]INFO init windows
+2023-06-13 09:14:34,805 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:14:34,805 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:14:36,236 main_window.py[line:45]INFO init windows
+2023-06-13 09:24:28,553 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:24:28,553 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:24:30,256 main_window.py[line:45]INFO init windows
+2023-06-13 09:24:47,560 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:24:47,560 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:24:49,206 main_window.py[line:45]INFO init windows
+2023-06-13 09:25:50,418 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:25:50,418 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:25:51,981 main_window.py[line:45]INFO init windows
+2023-06-13 09:26:31,777 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:26:31,777 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:26:33,181 main_window.py[line:45]INFO init windows
+2023-06-13 09:26:57,206 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:26:57,206 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:26:58,739 main_window.py[line:45]INFO init windows
+2023-06-13 09:30:21,773 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:30:21,773 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:30:23,228 main_window.py[line:45]INFO init windows
+2023-06-13 09:31:42,201 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 09:31:42,201 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 09:31:43,632 main_window.py[line:45]INFO init windows
+2023-06-13 10:57:18,968 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 10:57:18,969 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 10:57:20,573 main_window.py[line:45]INFO init windows
+2023-06-13 11:05:32,643 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 11:05:32,643 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 11:07:39,685 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 11:07:39,685 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 11:07:41,113 main_window.py[line:45]INFO init windows
+2023-06-13 11:07:51,973 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 11:07:51,973 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 11:20:59,743 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 11:20:59,743 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 11:21:01,227 main_window.py[line:45]INFO init windows
+2023-06-13 15:46:41,004 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 15:46:41,004 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 15:46:42,642 main_window.py[line:45]INFO init windows
+2023-06-13 16:56:10,291 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 16:56:10,291 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 16:56:11,807 main_window.py[line:45]INFO init windows
+2023-06-13 19:02:37,043 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:02:37,043 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:02:38,503 main_window.py[line:45]INFO init windows
+2023-06-13 19:04:29,148 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:04:29,149 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:04:30,721 main_window.py[line:45]INFO init windows
+2023-06-13 19:06:40,839 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:06:40,839 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:06:42,376 main_window.py[line:45]INFO init windows
+2023-06-13 19:19:14,354 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:19:14,354 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:19:15,788 main_window.py[line:45]INFO init windows
+2023-06-13 19:19:26,475 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:19:26,476 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:19:28,021 main_window.py[line:45]INFO init windows
+2023-06-13 19:21:01,696 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:21:01,696 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:21:03,247 main_window.py[line:45]INFO init windows
+2023-06-13 19:22:13,298 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:22:13,298 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:22:14,864 main_window.py[line:45]INFO init windows
+2023-06-13 19:23:42,563 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:23:42,563 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:23:44,016 main_window.py[line:45]INFO init windows
+2023-06-13 19:27:14,371 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:27:14,371 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:27:15,963 main_window.py[line:45]INFO init windows
+2023-06-13 19:27:33,147 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:27:33,147 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:27:34,573 main_window.py[line:45]INFO init windows
+2023-06-13 19:28:28,990 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:28:28,990 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:28:30,423 main_window.py[line:45]INFO init windows
+2023-06-13 19:30:01,983 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:30:01,983 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:30:03,542 main_window.py[line:45]INFO init windows
+2023-06-13 19:31:17,793 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:31:17,793 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:31:19,352 main_window.py[line:45]INFO init windows
+2023-06-13 19:32:08,857 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:32:08,857 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:32:10,315 main_window.py[line:45]INFO init windows
+2023-06-13 19:32:47,094 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:32:47,094 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:32:48,634 main_window.py[line:45]INFO init windows
+2023-06-13 19:33:53,882 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:33:53,882 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:33:55,449 main_window.py[line:45]INFO init windows
+2023-06-13 19:34:14,697 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:34:14,697 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:34:16,254 main_window.py[line:45]INFO init windows
+2023-06-13 19:35:45,402 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:35:45,402 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:35:46,966 main_window.py[line:45]INFO init windows
+2023-06-13 19:37:55,464 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:37:55,464 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:37:57,038 main_window.py[line:45]INFO init windows
+2023-06-13 19:40:34,228 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:40:34,228 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:40:35,682 main_window.py[line:45]INFO init windows
+2023-06-13 19:41:39,081 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:41:39,081 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:41:40,637 main_window.py[line:45]INFO init windows
+2023-06-13 19:43:34,513 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:43:34,513 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:43:36,055 main_window.py[line:45]INFO init windows
+2023-06-13 19:46:07,139 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:46:07,139 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:46:08,715 main_window.py[line:45]INFO init windows
+2023-06-13 19:50:37,099 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:50:37,099 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:50:38,649 main_window.py[line:45]INFO init windows
+2023-06-13 19:53:59,848 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:53:59,848 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:54:01,450 main_window.py[line:45]INFO init windows
+2023-06-13 19:55:40,179 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:55:40,179 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:55:41,734 main_window.py[line:45]INFO init windows
+2023-06-13 19:58:51,686 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 19:58:51,687 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 19:58:53,263 main_window.py[line:45]INFO init windows
+2023-06-13 20:18:26,009 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:18:26,009 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:18:27,522 main_window.py[line:45]INFO init windows
+2023-06-13 20:19:32,922 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:19:32,923 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:19:34,500 main_window.py[line:45]INFO init windows
+2023-06-13 20:19:50,224 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:19:50,224 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:19:51,802 main_window.py[line:45]INFO init windows
+2023-06-13 20:20:53,888 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:20:53,888 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:20:55,351 main_window.py[line:45]INFO init windows
+2023-06-13 20:30:48,893 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:30:48,893 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:30:50,800 main_window.py[line:45]INFO init windows
+2023-06-13 20:31:27,279 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 20:31:27,279 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 20:31:29,083 main_window.py[line:45]INFO init windows
+2023-06-13 21:20:46,984 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:20:46,984 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:20:48,884 main_window.py[line:45]INFO init windows
+2023-06-13 21:21:39,137 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:21:39,137 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:21:40,966 main_window.py[line:45]INFO init windows
+2023-06-13 21:22:05,594 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:22:05,594 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:22:07,038 main_window.py[line:45]INFO init windows
+2023-06-13 21:24:37,012 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:24:37,012 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:24:38,579 main_window.py[line:45]INFO init windows
+2023-06-13 21:26:02,587 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:26:02,587 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:26:04,129 main_window.py[line:45]INFO init windows
+2023-06-13 21:27:09,472 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:27:09,472 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:27:11,043 main_window.py[line:45]INFO init windows
+2023-06-13 21:31:04,218 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:31:04,218 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:31:05,761 main_window.py[line:45]INFO init windows
+2023-06-13 21:32:15,252 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:32:15,252 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:32:16,809 main_window.py[line:45]INFO init windows
+2023-06-13 21:34:08,768 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:34:08,768 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:34:10,338 main_window.py[line:45]INFO init windows
+2023-06-13 21:42:09,367 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:42:09,367 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:42:10,837 main_window.py[line:45]INFO init windows
+2023-06-13 21:43:48,192 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 21:43:48,192 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 21:43:49,749 main_window.py[line:45]INFO init windows
+2023-06-13 22:00:20,090 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:00:20,090 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:00:21,559 main_window.py[line:45]INFO init windows
+2023-06-13 22:38:41,251 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:38:41,251 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:38:42,796 main_window.py[line:45]INFO init windows
+2023-06-13 22:41:35,284 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:41:35,284 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:41:36,856 main_window.py[line:45]INFO init windows
+2023-06-13 22:53:10,119 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:53:10,119 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:53:53,351 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:53:53,351 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:53:54,784 main_window.py[line:45]INFO init windows
+2023-06-13 22:56:10,151 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:56:10,151 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:56:11,598 main_window.py[line:45]INFO init windows
+2023-06-13 22:57:11,950 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-13 22:57:11,951 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-13 22:57:13,536 main_window.py[line:45]INFO init windows
+2023-06-16 16:44:14,024 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-16 16:44:14,024 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-16 16:44:15,897 main_window.py[line:45]INFO init windows
+2023-06-16 16:58:28,423 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-16 16:58:28,423 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-16 16:58:29,970 main_window.py[line:45]INFO init windows
+2023-06-21 14:04:15,867 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-21 14:04:15,867 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-21 14:04:17,744 main_window.py[line:45]INFO init windows
+2023-06-21 15:12:38,590 utils.py[line:145]INFO Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2023-06-21 15:12:38,590 utils.py[line:157]INFO NumExpr defaulting to 8 threads.
+2023-06-21 15:12:40,283 main_window.py[line:44]INFO init windows
